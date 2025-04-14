@@ -4,10 +4,6 @@
 <img src="./img/TCLaneNet.png" alt="drawing" width="750"/>
 
 
-## Changelog
-[2022-2-13] Release the initial code for TCLaneNet.
-
-
 ## 一、Demo
 #### 1. Video
 ![demo_gif](./img/demo.gif)
