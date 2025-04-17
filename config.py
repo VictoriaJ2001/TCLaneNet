@@ -9,6 +9,6 @@ Dataset_Path = dict(
     CULane = "/workspace/CULANE_DATASET",
     Tusimple = "/workspace/TUSIMPLE_DATASET",
     bdd100k = "/workspace/BDD100K_DATASET",
-    mydata = "/home/neu-wang/gongyan/big_data/vibration"
+    mydata = "/home/neu-wang/jxm/big_data/vibration"
 )
 
